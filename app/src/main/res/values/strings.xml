@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HackathonProject</string>
+    <string name="sample_count">44 770</string>
+    <string name="get_text">Приобрести</string>
+    <string name="info_main_txt">Столько счастливых семей уже приобрели жилье</string>
+    <string name="title_activity_nagivation">NagivationActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

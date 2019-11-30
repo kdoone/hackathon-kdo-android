@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#198382</color>
+    <color name="colorPrimaryDark">#198382</color>
+    <color name="colorAccent">#008B8A</color>
+
+    <!-- Main colors of project -->
+    <color name="mainUiColors">#008B8A</color>
+    <color name="whiteColor">#FFFFFF</color>
+    <color name="dataColor">#BEBEBE</color>
+    <color name="main_nav_color">#EEF4F2</color>
+
+</resources>
